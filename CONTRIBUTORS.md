@@ -1952,3 +1952,8 @@ Noida
  - Place: /
  - Bio: love informatics		 
  - GitHub: [Mark](https://github.com/Mxrk)
+
+#### Name: [Fitri](https://github.com/ftrannisa)		 
+ - Place: Indonesia
+ - Bio: Health Informatics student		 
+ - GitHub: [Fitri](https://github.com/ftrannisa)
